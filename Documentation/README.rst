@@ -11,7 +11,7 @@ More in German:
 
 See here: http://www.netzkompetenz.ch/typo3/typo3-7-lts/typo3-7-lts-subheader-bei-den-contenttypen-text-text-mit-bild-und-bilder-hinzufuegen/
 
- What does it not do?
+What does it not do?
 ========================
 
 This only makes subheader field visible in TYPO3 Backend, it does not add some rendering. Rendering is handled via css_styled_content.
