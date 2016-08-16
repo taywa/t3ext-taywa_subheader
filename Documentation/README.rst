@@ -5,7 +5,7 @@ Subheader field for text,textpic,html,image in BE
 What does it do?
 ========================
 
-Show subheader field in BE for Ctype: text,textpic,image (css_styled_content) and textmedia (flud_styled_content) and html (both).
+Show subheader field in BE for Ctype: text,textpic,image (css_styled_content) and textmedia (fluid_styled_content) and html (both).
 
 
 
